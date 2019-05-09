@@ -1,0 +1,145 @@
+"country","year","level","mean_ratio"
+"Low income countries",2012,"all_levels_mean",27.533236
+"Low income countries",2013,"all_levels_mean",27.178842
+"Low income countries",2014,"all_levels_mean",27.20241
+"Low income countries",2015,"all_levels_mean",26.578514
+"Low income countries",2016,"all_levels_mean",26.637492
+"Low income countries",2017,"all_levels_mean",31.8539133333333
+"Lower middle income countries",2012,"all_levels_mean",23.341312
+"Lower middle income countries",2013,"all_levels_mean",23.788528
+"Lower middle income countries",2014,"all_levels_mean",23.716092
+"Lower middle income countries",2015,"all_levels_mean",23.521898
+"Lower middle income countries",2016,"all_levels_mean",23.22291
+"Lower middle income countries",2017,"all_levels_mean",23.474136
+"Upper middle income countries",2012,"all_levels_mean",16.381598
+"Upper middle income countries",2013,"all_levels_mean",16.86719
+"Upper middle income countries",2014,"all_levels_mean",16.354158
+"Upper middle income countries",2015,"all_levels_mean",16.033042
+"Upper middle income countries",2016,"all_levels_mean",15.854214
+"Upper middle income countries",2017,"all_levels_mean",15.646092
+"High income countries",2012,"all_levels_mean",13.362264
+"High income countries",2013,"all_levels_mean",13.4442
+"High income countries",2014,"all_levels_mean",13.438394
+"High income countries",2015,"all_levels_mean",13.381064
+"High income countries",2016,"all_levels_mean",13.391414
+"High income countries",2017,"all_levels_mean",13.390452
+"Low income countries",2012,"Lower Secondary Education",26.03791
+"Low income countries",2013,"Lower Secondary Education",25.43747
+"Low income countries",2014,"Lower Secondary Education",26.1946
+"Low income countries",2015,"Lower Secondary Education",25.28626
+"Low income countries",2016,"Lower Secondary Education",25.95105
+"Low income countries",2017,"Lower Secondary Education",NA
+"Lower middle income countries",2012,"Lower Secondary Education",23.84969
+"Lower middle income countries",2013,"Lower Secondary Education",22.15153
+"Lower middle income countries",2014,"Lower Secondary Education",22.27758
+"Lower middle income countries",2015,"Lower Secondary Education",22.13645
+"Lower middle income countries",2016,"Lower Secondary Education",21.08379
+"Lower middle income countries",2017,"Lower Secondary Education",21.15185
+"Upper middle income countries",2012,"Lower Secondary Education",14.61925
+"Upper middle income countries",2013,"Lower Secondary Education",14.56363
+"Upper middle income countries",2014,"Lower Secondary Education",14.14774
+"Upper middle income countries",2015,"Lower Secondary Education",13.96013
+"Upper middle income countries",2016,"Lower Secondary Education",13.82274
+"Upper middle income countries",2017,"Lower Secondary Education",13.71082
+"High income countries",2012,"Lower Secondary Education",13.18485
+"High income countries",2013,"Lower Secondary Education",13.24941
+"High income countries",2014,"Lower Secondary Education",13.15509
+"High income countries",2015,"Lower Secondary Education",13.05505
+"High income countries",2016,"Lower Secondary Education",13.1014
+"High income countries",2017,"Lower Secondary Education",13.11144
+"Low income countries",2012,"Pre-Primary Education",30.51457
+"Low income countries",2013,"Pre-Primary Education",29.96616
+"Low income countries",2014,"Pre-Primary Education",29.2061
+"Low income countries",2015,"Pre-Primary Education",29.01574
+"Low income countries",2016,"Pre-Primary Education",29.18848
+"Low income countries",2017,"Pre-Primary Education",34.37293
+"Lower middle income countries",2012,"Pre-Primary Education",19.24224
+"Lower middle income countries",2013,"Pre-Primary Education",19.64871
+"Lower middle income countries",2014,"Pre-Primary Education",18.62791
+"Lower middle income countries",2015,"Pre-Primary Education",19.092
+"Lower middle income countries",2016,"Pre-Primary Education",19.35745
+"Lower middle income countries",2017,"Pre-Primary Education",19.69809
+"Upper middle income countries",2012,"Pre-Primary Education",18.28093
+"Upper middle income countries",2013,"Pre-Primary Education",18.85462
+"Upper middle income countries",2014,"Pre-Primary Education",18.28059
+"Upper middle income countries",2015,"Pre-Primary Education",17.68123
+"Upper middle income countries",2016,"Pre-Primary Education",17.26022
+"Upper middle income countries",2017,"Pre-Primary Education",16.77954
+"High income countries",2012,"Pre-Primary Education",14.43238
+"High income countries",2013,"Pre-Primary Education",14.39612
+"High income countries",2014,"Pre-Primary Education",14.36183
+"High income countries",2015,"Pre-Primary Education",14.44347
+"High income countries",2016,"Pre-Primary Education",14.40181
+"High income countries",2017,"Pre-Primary Education",14.39603
+"Low income countries",2012,"Primary Education",41.27404
+"Low income countries",2013,"Primary Education",41.12389
+"Low income countries",2014,"Primary Education",40.54516
+"Low income countries",2015,"Primary Education",39.79081
+"Low income countries",2016,"Primary Education",39.50265
+"Low income countries",2017,"Primary Education",39.46101
+"Lower middle income countries",2012,"Primary Education",30.93166
+"Lower middle income countries",2013,"Primary Education",28.58972
+"Lower middle income countries",2014,"Primary Education",28.28275
+"Lower middle income countries",2015,"Primary Education",27.83073
+"Lower middle income countries",2016,"Primary Education",28.70438
+"Lower middle income countries",2017,"Primary Education",29.25579
+"Upper middle income countries",2012,"Primary Education",18.70176
+"Upper middle income countries",2013,"Primary Education",18.7663
+"Upper middle income countries",2014,"Primary Education",18.32942
+"Upper middle income countries",2015,"Primary Education",18.33116
+"Upper middle income countries",2016,"Primary Education",18.50776
+"Upper middle income countries",2017,"Primary Education",18.52874
+"High income countries",2012,"Primary Education",14.32286
+"High income countries",2013,"Primary Education",14.28799
+"High income countries",2014,"Primary Education",14.30394
+"High income countries",2015,"Primary Education",14.22281
+"High income countries",2016,"Primary Education",14.15295
+"High income countries",2017,"Primary Education",14.15035
+"Low income countries",2012,"Secondary Education",22.51641
+"Low income countries",2013,"Secondary Education",22.07605
+"Low income countries",2014,"Secondary Education",22.53944
+"Low income countries",2015,"Secondary Education",21.78917
+"Low income countries",2016,"Secondary Education",21.89259
+"Low income countries",2017,"Secondary Education",21.7278
+"Lower middle income countries",2012,"Secondary Education",22.24781
+"Lower middle income countries",2013,"Secondary Education",23.36073
+"Lower middle income countries",2014,"Secondary Education",23.66007
+"Lower middle income countries",2015,"Secondary Education",23.36985
+"Lower middle income countries",2016,"Secondary Education",22.46449
+"Lower middle income countries",2017,"Secondary Education",22.57572
+"Upper middle income countries",2012,"Secondary Education",14.93629
+"Upper middle income countries",2013,"Secondary Education",15.44616
+"Upper middle income countries",2014,"Secondary Education",14.95229
+"Upper middle income countries",2015,"Secondary Education",14.63429
+"Upper middle income countries",2016,"Secondary Education",14.42642
+"Upper middle income countries",2017,"Secondary Education",14.23915
+"High income countries",2012,"Secondary Education",12.68044
+"High income countries",2013,"Secondary Education",12.8369
+"High income countries",2014,"Secondary Education",12.83643
+"High income countries",2015,"Secondary Education",12.74062
+"High income countries",2016,"Secondary Education",12.79645
+"High income countries",2017,"Secondary Education",12.79804
+"Low income countries",2012,"Upper Secondary Education",17.32325
+"Low income countries",2013,"Upper Secondary Education",17.29064
+"Low income countries",2014,"Upper Secondary Education",17.52675
+"Low income countries",2015,"Upper Secondary Education",17.01059
+"Low income countries",2016,"Upper Secondary Education",16.65269
+"Low income countries",2017,"Upper Secondary Education",NA
+"Lower middle income countries",2012,"Upper Secondary Education",20.43516
+"Lower middle income countries",2013,"Upper Secondary Education",25.19195
+"Lower middle income countries",2014,"Upper Secondary Education",25.73215
+"Lower middle income countries",2015,"Upper Secondary Education",25.18046
+"Lower middle income countries",2016,"Upper Secondary Education",24.50444
+"Lower middle income countries",2017,"Upper Secondary Education",24.68923
+"Upper middle income countries",2012,"Upper Secondary Education",15.36976
+"Upper middle income countries",2013,"Upper Secondary Education",16.70524
+"Upper middle income countries",2014,"Upper Secondary Education",16.06075
+"Upper middle income countries",2015,"Upper Secondary Education",15.5584
+"Upper middle income countries",2016,"Upper Secondary Education",15.25393
+"Upper middle income countries",2017,"Upper Secondary Education",14.97221
+"High income countries",2012,"Upper Secondary Education",12.19079
+"High income countries",2013,"Upper Secondary Education",12.45058
+"High income countries",2014,"Upper Secondary Education",12.53468
+"High income countries",2015,"Upper Secondary Education",12.44337
+"High income countries",2016,"Upper Secondary Education",12.50446
+"High income countries",2017,"Upper Secondary Education",12.4964
